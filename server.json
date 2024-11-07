@@ -1,0 +1,100 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 10000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Compra de materiais de escritório",
+      "type": "outcome",
+      "category": "Despesa",
+      "price": 450,
+      "createdAt": "2022-08-02T10:15:22.000Z"
+    },
+    {
+      "id": 3,
+      "description": "Venda de curso online",
+      "type": "income",
+      "category": "Educação",
+      "price": 3000,
+      "createdAt": "2022-08-15T08:30:00.000Z"
+    },
+    {
+      "id": 4,
+      "description": "Manutenção de equipamentos",
+      "type": "outcome",
+      "category": "Serviços",
+      "price": 1200,
+      "createdAt": "2022-08-20T14:50:00.000Z"
+    },
+    {
+      "id": 5,
+      "description": "Projeto de consultoria",
+      "type": "income",
+      "category": "Serviços",
+      "price": 7500,
+      "createdAt": "2022-09-05T09:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "description": "Aluguel do escritório",
+      "type": "outcome",
+      "category": "Aluguel",
+      "price": 2000,
+      "createdAt": "2022-09-10T11:00:00.000Z"
+    },
+    {
+      "id": 7,
+      "description": "Venda de produto digital",
+      "type": "income",
+      "category": "Produto",
+      "price": 500,
+      "createdAt": "2022-09-15T16:45:00.000Z"
+    },
+    {
+      "id": 8,
+      "description": "Compra de licenças de software",
+      "type": "outcome",
+      "category": "Tecnologia",
+      "price": 600,
+      "createdAt": "2022-09-20T13:20:00.000Z"
+    },
+    {
+      "id": 9,
+      "description": "Venda de assinatura premium",
+      "type": "income",
+      "category": "Assinatura",
+      "price": 120,
+      "createdAt": "2022-09-25T17:30:00.000Z"
+    },
+    {
+      "id": 10,
+      "description": "Pagamento de serviços externos",
+      "type": "outcome",
+      "category": "Freelance",
+      "price": 800,
+      "createdAt": "2022-09-30T15:00:00.000Z"
+    },
+    {
+      "description": "Jamef",
+      "price": 100,
+      "category": "Trabalho",
+      "type": "income",
+      "createdAt": "2024-11-07T11:36:05.288Z",
+      "id": 11
+    },
+    {
+      "description": "Work",
+      "price": 200,
+      "category": "teste",
+      "type": "outcome",
+      "createdAt": "2024-11-07T11:36:23.756Z",
+      "id": 12
+    }
+  ]
+}
